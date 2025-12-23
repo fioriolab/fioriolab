@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Henrique Fiorio Martins
+# Guilherme Henrique Fiorio Martins
 
 **`Desenvolvedor Front-End`**
 
