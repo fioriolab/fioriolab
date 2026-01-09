@@ -2,106 +2,75 @@
 
 **`Desenvolvedor Front-End`**
 
-"Sou um 𝗗𝗘𝗦𝗘𝗡𝗩𝗢𝗟𝗩𝗘𝗗𝗢𝗥 𝗙𝗥𝗢𝗡𝗧-𝗘𝗡𝗗 apaixonado por transformar designs complexos em interfaces funcionais, responsivas e de alta performance. Atualmente, foco minha especialização no ecossistema 𝗥𝗘𝗔𝗖𝗧, 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧 𝗲 𝗧𝗔𝗜𝗟𝗪𝗜𝗡𝗗 𝗖𝗦𝗦. Essa conta é exclusivamente para uso de estudos e evolução contínua nos meus conhecimentos em Front-End.
+"Sou um **DESENVOLVEDOR FRONT-END** apaixonado por transformar designs complexos em interfaces funcionais, responsivas e de alta performance. Atualmente, foco minha especialização no ecossistema **REACT, JAVASCRIPT e TAILWIND CSS**. Esta conta é um registro da minha evolução contínua e paixão por tecnologia."
 
-🚀 𝗢 𝗾𝘂𝗲 𝗲𝘂 𝗲𝗻𝘁𝗿𝗲𝗴𝗼: 
-• Interfaces responsivas e Mobile-First. 
-• Código limpo e componentizado no React. 
-• Agilidade na resolução de problemas.
-
-🛠️ 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀: HTML5, CSS3, JavaScript, React, TypeScript e Tailwind CSS
-
-Estou em busca da minha primeira oportunidade como Desenvolvedor Júnior para contribuir com times inovadores e continuar evoluindo tecnicamente."
+### 🚀 **O que eu entrego:** 
+* Interfaces responsivas e Mobile-First.
+* Código limpo e componentizado no React. 
+* Agilidade na resolução de problemas e arquitetura organizada.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Projeto em Destaque: React Labs Hub
+Este é o meu laboratório central. Um **Monorepo profissional** (Turborepo) que hospeda diversas aplicações práticas para testar limites de performance e UI.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<div align="center">
+  <a href="https://react-labs-hub-hub-main.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ACESSAR_HUB_AO_VIVO-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Acessar Hub" height="35">
+  </a>
+  <a href="https://github.com/fioriolab/react-labs-hub" target="_blank">
+    <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-white?style=for-the-badge&logo=github&logoColor=black" alt="Ver Repositório" height="35">
+  </a>
+</div>
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 🛠️ Toolbox (Linguagens e Tecnologias)
 
-<p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" title="HTML5" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" title="CSS3" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" title="JavaScript" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" title="TypeScript" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" title="React" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="35" title="Next.js" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="35" title="Tailwind CSS" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git" />
+</div>
+
+---
+
+### 🤝 Vamos conversar?
+Estou sempre aberto a novos desafios e trocas de conhecimento!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilhermehenriquefju/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:guilherme.fiorio.dev@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas de Contribuição
+
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    width="400"
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=fioriolab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fioriolab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fioriolab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Top Langs"
   />
+</div>
 
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1f7&height=100&section=footer" width="100%"/>
 </p>
