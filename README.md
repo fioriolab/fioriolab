@@ -4,22 +4,36 @@
 
 "Sou um **DESENVOLVEDOR FRONT-END** apaixonado por transformar designs complexos em interfaces funcionais, responsivas e de alta performance. Atualmente, foco minha especialização no ecossistema **REACT, JAVASCRIPT e TAILWIND CSS**. Esta conta é um registro da minha evolução contínua e paixão por tecnologia."
 
-### 🚀 **O que eu entrego:** 
+### 🚀 **O que eu entrego:**
 * Interfaces responsivas e Mobile-First.
 * Código limpo e componentizado no React. 
 * Agilidade na resolução de problemas e arquitetura organizada.
 
 ---
 
-### 🚀 Projeto em Destaque: React Labs Hub
-Este é o meu laboratório central. Um **Monorepo profissional** (Turborepo) que hospeda diversas aplicações práticas para testar limites de performance e UI.
+### 🧪 Meus Laboratórios (Monorepos)
 
-<div align="center">
-  <a href="https://react-labs-hub-hub-main.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ACESSAR_HUB_AO_VIVO-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Acessar Hub" height="35">
+Abaixo estão os meus dois hubs centrais de estudo, onde aplico conceitos de arquitetura escalável com **Turborepo**:
+
+#### ⚛️ React Labs Hub
+Laboratório focado em componentes complexos, Hooks avançados e ecossistema TypeScript.
+<div align="left">
+  <a href="https://react-labs-hub-hub-main.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/ACESSAR_HUB_REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Acessar Hub React" height="30">
   </a>
   <a href="https://github.com/fioriolab/react-labs-hub" target="_blank">
-    <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-white?style=for-the-badge&logo=github&logoColor=black" alt="Ver Repositório" height="35">
+    <img src="https://img.shields.io/badge/REPOSITÓRIO-white?style=for-the-badge&logo=github&logoColor=black" alt="Ver Repositório" height="30">
+  </a>
+</div>
+
+#### ⚡ JS Lab Hub (Novo!)
+Laboratório focado em **JavaScript Puro (Vanilla)**, manipulação de DOM e performance sem frameworks.
+<div align="left">
+  <a href="https://js-lab-hub-hub-main.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/ACESSAR_HUB_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Acessar Hub JS" height="30">
+  </a>
+  <a href="https://github.com/fioriolab/js-lab-hub" target="_blank">
+    <img src="https://img.shields.io/badge/REPOSITÓRIO-white?style=for-the-badge&logo=github&logoColor=black" alt="Ver Repositório" height="30">
   </a>
 </div>
 
